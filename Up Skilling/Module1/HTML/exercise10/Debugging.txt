@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+
+let x=10;
+let y=20;
+
+console.log("Value of x =",x);
+console.log("Value of y =",y);
+
+function add(){
+    let result=x+y;
+    console.log("Result =",result);
+}
+
+</script>
+</head>
+<body>
+
+<button onclick="add()">
+Add Numbers
+</button>
+
+</body>
+</html>

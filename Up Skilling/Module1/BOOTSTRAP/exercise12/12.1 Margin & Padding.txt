@@ -1,0 +1,7 @@
+<div class="m-3 p-3 bg-light">
+  Margin and Padding Example
+</div>
+
+<div class="mt-4 py-5 bg-warning">
+  Top margin + vertical padding
+</div>

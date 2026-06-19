@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body{
+    background-color: rgba(200,200,200,0.8);
+    background-image: url("https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg");
+    background-size: cover;
+}
+
+h1{
+    color:#FFFFFF;
+    background: linear-gradient(to right, blue, green);
+    padding:15px;
+}
+
+p{
+    color:#FF0000;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>Local Community Event Portal</h1>
+
+<p>Welcome to the community event portal.</p>
+
+</body>
+</html>

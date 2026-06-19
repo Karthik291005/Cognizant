@@ -1,0 +1,4 @@
+/* _variables.scss */
+
+$primary: #ff5722;
+$border-radius: 20px;                                                   @import "bootstrap/scss/bootstrap";

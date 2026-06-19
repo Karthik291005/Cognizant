@@ -1,0 +1,31 @@
+!DOCTYPE html
+html
+head
+    titleNavigation Exampletitle
+head
+body
+
+nav
+    a href=#homeHomea 
+    a href=#eventsEventsa 
+    a href=#contactContacta 
+    a href=help.html target=_blankHelpa
+nav
+
+section id=home
+    h2Homeh2
+    pWelcome to the portal.p
+section
+
+section id=events
+    h2Eventsh2
+    pUpcoming community events.p
+section
+
+section id=contact
+    h2Contacth2
+    pContact information.p
+section
+
+body
+html

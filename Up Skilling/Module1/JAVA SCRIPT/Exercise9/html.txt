@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Async JavaScript</title>
+</head>
+
+<body>
+
+    <h1>Community Event Portal</h1>
+
+    <button onclick="loadEvents()">
+        Load Events
+    </button>
+
+    <p id="loading"></p>
+
+    <div id="events"></div>
+
+    <script src="main.js"></script>
+
+</body>
+</html>

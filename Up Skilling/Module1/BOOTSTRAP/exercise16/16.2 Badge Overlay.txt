@@ -1,0 +1,9 @@
+<div class="position-relative d-inline-block">
+
+  <img src="https://picsum.photos/200">
+
+  <span class="position-absolute top-0 start-100 translate-middle badge bg-danger">
+    New
+  </span>
+
+</div>

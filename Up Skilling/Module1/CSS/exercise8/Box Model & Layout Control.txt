@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+
+.eventCard{
+    border:2px solid black;
+    padding:20px;
+    margin:20px;
+}
+
+input:focus{
+    outline:3px solid red;
+}
+
+.hiddenBox{
+    visibility:hidden;
+}
+
+.noneBox{
+    display:none;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="eventCard">
+    <h2>Music Festival</h2>
+    <p>Join our community event.</p>
+</div>
+
+<input type="text" placeholder="Click here">
+
+<div class="hiddenBox">
+    Hidden using visibility:hidden
+</div>
+
+<div class="noneBox">
+    Hidden using display:none
+</div>
+
+</body>
+</html>

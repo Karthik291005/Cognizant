@@ -1,0 +1,4 @@
+<h1 class="display-1">Big Title</h1>
+<p class="lead">This is lead text</p>
+<p class="text-muted">Muted text</p>
+<p class="fw-bold">Bold text</p>

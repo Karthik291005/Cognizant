@@ -1,0 +1,3 @@
+<div class="card shadow-lg rounded-pill p-3">
+  Stylish Card
+</div>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Event Feedback with Event Handling</title>
+
+<script>
+
+function validatePhone(){
+    alert("Phone Validated");
+}
+
+function showFee(){
+    document.getElementById("fee").innerHTML =
+    "Fee: ₹200";
+}
+
+function confirmSubmit(){
+    alert("Submitted Successfully");
+}
+
+function enlarge(img){
+    img.width = 300;
+}
+
+function countChars(){
+    let text = document.getElementById("feedback").value;
+    document.getElementById("count").innerHTML =
+    "Characters: " + text.length;
+}
+
+</script>
+
+</head>
+
+<body>
+
+<h2>Event Feedback Form</h2>
+
+Phone:
+<input type="text" onblur="validatePhone()">
+
+<br><br>
+
+<select onchange="showFee()">
+    <option>Select Event</option>
+    <option>Music</option>
+    <option>Sports</option>
+    <option>Technology</option>
+</select>
+
+<p id="fee"></p>
+
+<button onclick="confirmSubmit()">
+    Submit
+</button>
+
+<br><br>
+
+<img src="https://sp.yimg.com/ib/th/id/OIP.FexJR6FqH7lsYkUArZ8kZwHaE8?pid=Api&w=148&h=148&c=7&dpr=2&rs=1"
+     width="150"
+     alt="Event Image"
+     ondblclick="enlarge(this)">
+
+<p>Double-click the image to enlarge it.</p>
+
+<br>
+
+<textarea id="feedback"
+          rows="5"
+          cols="40"
+          placeholder="Enter your feedback"
+          onkeyup="countChars()">
+</textarea>
+
+<p id="count">Characters: 0</p>
+
+</body>
+</html>

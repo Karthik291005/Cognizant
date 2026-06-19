@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+form{
+    width:300px;
+    border:1px solid black;
+    padding:20px;
+}
+</style>
+
+<script>
+function submitForm(){
+    document.getElementById("result").value =
+    "Registration Successful";
+}
+</script>
+
+</head>
+<body>
+
+<form>
+
+<input type="text"
+placeholder="Enter Name"
+required autofocus>
+
+<br><br>
+
+<input type="email"
+placeholder="Enter Email"
+required>
+
+<br><br>
+
+<input type="date" required>
+
+<br><br>
+
+<select>
+<option>Sports</option>
+<option>Music</option>
+<option>Technology</option>
+</select>
+
+<br><br>
+
+<textarea placeholder="Message"></textarea>
+
+<br><br>
+
+<button type="button" onclick="submitForm()">
+Submit
+</button>
+
+<br><br>
+
+<output id="result"></output>
+
+</form>
+
+</body>
+</html>
