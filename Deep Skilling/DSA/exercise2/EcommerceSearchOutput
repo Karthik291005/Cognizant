@@ -1,0 +1,2 @@
+PS C:\Users\HP\Desktop\Digital Nurture 5.0\Deep Skilling\DSA>  & 'C:\Program Files\Java\jdk1.8.0_202\bin\java.exe' '-agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:56408' '-cp' 'C:\Users\HP\AppData\Roaming\Code\User\workspaceStorage\09e6d0cb93928e583921fbb43f1f83b9\redhat.java\jdt_ws\DSA_911a740c\bin' 'EcommerceSearch' 
+ID: 105, Name: Laptop, category: Electronics

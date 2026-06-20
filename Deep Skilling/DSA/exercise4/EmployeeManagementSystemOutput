@@ -1,0 +1,10 @@
+Employee Id : 101, Employee Name : Karthik, Employee Position : FrontEnd Developer, Employee Salary : 30000.0
+Employee Id : 102, Employee Name : Mohan, Employee Position : Editor, Employee Salary : 25000.0
+Employee Id : 103, Employee Name : Chetan, Employee Position : Coder, Employee Salary : 35000.0
+
+Employee Found:
+Employee Id : 103, Employee Name : Chetan, Employee Position : Coder, Employee Salary : 35000.0
+
+After deletion:
+Employee Id : 101, Employee Name : Karthik, Employee Position : FrontEnd Developer, Employee Salary : 30000.0
+Employee Id : 103, Employee Name : Chetan, Employee Position : Coder, Employee Salary : 35000.0

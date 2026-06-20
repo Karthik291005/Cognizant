@@ -1,0 +1,6 @@
+Task id : 1, Task Name : PL/SQL, Task status : Pending
+Task id : 2, Task Name : DSA, Task status : Completed
+Task id : 3, Task Name : DP&DP, Task status : Completed
+After deleting tasks : 
+Task id : 1, Task Name : PL/SQL, Task status : Pending
+Task id : 3, Task Name : DP&DP, Task status : Completed

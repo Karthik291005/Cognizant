@@ -1,0 +1,8 @@
+Product added successfully
+Product added successfully
+ID: 101, Name: Laptop, Quantity: 10.0, Price: 50000.0
+ID: 102, Name: mobile, Quantity: 15.0, Price: 30000.0
+Product updated successfully
+Product deleted successfully
+After Deletion
+ID: 101, Name: Laptop, Quantity: 20.0, Price: 55000.0
