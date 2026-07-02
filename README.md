@@ -1,1 +1,1 @@
-This repository consists of the solutions of hands on Exercises during my Cognizant Digital Nurture 5.0 
+This repository consists of the solutions of Mandatory hands on Exercises which are in the excel file
